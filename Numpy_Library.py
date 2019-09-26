@@ -125,7 +125,6 @@ arr.reshape(5,5)
 # In[46]:
 
 
-arr.reshape(-1,1)
 
 
 # In[48]:
